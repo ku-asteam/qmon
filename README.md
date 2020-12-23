@@ -1,5 +1,5 @@
 # Qmon
-Queue Monitoring Module
+Switch Queue Monitoring Module for Web Applications
 
 ## Introduction
 
