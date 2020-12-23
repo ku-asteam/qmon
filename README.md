@@ -14,7 +14,7 @@ This enables the switch to perform various network fucnctions that require conge
 
 ## Instructions
 
-* Compile qmon.p4 using P4C compiler
+* Compile qmon.p4 using P4C compiler (Please use p4_build.sh provided by SDE)
 * Run the compiled qmon program using SDE shell scripts (i.e., run_switchd.sh) and configure port information
-* Run the contoller (con.py) using python command
+* Run the contoller (con.py) using python command 'python con.py'
 * Generate packets that pass though the switch, and you can see that the queue length information is printed by the controller
